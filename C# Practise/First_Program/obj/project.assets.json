@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\First_Program\\First_Program.csproj",
+      "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\First_Program\\First_Program.csproj",
       "projectName": "First_Program",
-      "projectPath": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\First_Program\\First_Program.csproj",
+      "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\First_Program\\First_Program.csproj",
       "packagesPath": "C:\\Users\\hajny\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\First_Program\\obj\\",
+      "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\First_Program\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hajny\\AppData\\Roaming\\NuGet\\NuGet.Config"
