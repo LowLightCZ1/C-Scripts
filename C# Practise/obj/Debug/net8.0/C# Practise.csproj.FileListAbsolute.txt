@@ -1,0 +1,14 @@
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\bin\Debug\net8.0\C# Practise.exe
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\bin\Debug\net8.0\C# Practise.deps.json
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\bin\Debug\net8.0\C# Practise.runtimeconfig.json
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\bin\Debug\net8.0\C# Practise.dll
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\bin\Debug\net8.0\C# Practise.pdb
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\C# Practise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\C# Practise.AssemblyInfoInputs.cache
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\C# Practise.AssemblyInfo.cs
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\C# Practise.csproj.CoreCompileInputs.cache
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\C# Practise.dll
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\refint\C# Practise.dll
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\C# Practise.pdb
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\C# Practise.genruntimeconfig.cache
+C:\Users\hajny\OneDrive\Desktop\Visual studio code\Game\C# Practise\obj\Debug\net8.0\ref\C# Practise.dll
