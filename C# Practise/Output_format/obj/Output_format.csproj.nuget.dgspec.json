@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj": {}
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj": {
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj",
+        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj",
         "projectName": "Output_format",
-        "projectPath": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj",
+        "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\Output_format.csproj",
         "packagesPath": "C:\\Users\\hajny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\obj\\",
+        "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Output_format\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hajny\\AppData\\Roaming\\NuGet\\NuGet.Config"
