@@ -1,13 +1,13 @@
 using System;
 
-namespace MyProgram
+namespace Output_Format
 {
-     class MyProgram
+     class Program
     {
         static void Main(string[] agrs)
         {
-            Console.Write("");
-            Console.WriteLine("Hello!"); 
+            Console.Write("Hey!");
+            Console.WriteLine("Hello!"); // String literal
         }
     }
 }
