@@ -1,0 +1,15 @@
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\bin\Debug\net8.0\Output_format.exe
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\bin\Debug\net8.0\Output_format.deps.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\bin\Debug\net8.0\Output_format.runtimeconfig.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\bin\Debug\net8.0\Output_format.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\bin\Debug\net8.0\Output_format.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.AssemblyInfoInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.AssemblyInfo.cs
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.csproj.CoreCompileInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.sourcelink.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\refint\Output_format.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\Output_format.genruntimeconfig.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Output_format\obj\Debug\net8.0\ref\Output_format.dll
