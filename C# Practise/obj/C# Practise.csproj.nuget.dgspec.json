@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\Game\\C# Practise\\C# Practise.csproj": {}
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\C# Practise.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\Game\\C# Practise\\C# Practise.csproj": {
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\C# Practise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\Game\\C# Practise\\C# Practise.csproj",
+        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\C# Practise.csproj",
         "projectName": "C# Practise",
-        "projectPath": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\Game\\C# Practise\\C# Practise.csproj",
+        "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\C# Practise.csproj",
         "packagesPath": "C:\\Users\\hajny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hajny\\OneDrive\\Desktop\\Visual studio code\\Game\\C# Practise\\obj\\",
+        "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hajny\\AppData\\Roaming\\NuGet\\NuGet.Config"
