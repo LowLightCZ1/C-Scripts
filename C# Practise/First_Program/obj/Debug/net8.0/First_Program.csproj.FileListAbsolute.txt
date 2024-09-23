@@ -1,0 +1,15 @@
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\bin\Debug\net8.0\First_Program.exe
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\bin\Debug\net8.0\First_Program.deps.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\bin\Debug\net8.0\First_Program.runtimeconfig.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\bin\Debug\net8.0\First_Program.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\bin\Debug\net8.0\First_Program.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.AssemblyInfoInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.AssemblyInfo.cs
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.csproj.CoreCompileInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.sourcelink.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\refint\First_Program.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\First_Program.genruntimeconfig.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\First_Program\obj\Debug\net8.0\ref\First_Program.dll
