@@ -9,7 +9,7 @@ namespace MyProgram
     {
         static void Main(string[] agrs)
         {
-            string text = "Hi"
+            string text = "Hi";
             string map = File.ReadAllText("morse.json");
             
             
