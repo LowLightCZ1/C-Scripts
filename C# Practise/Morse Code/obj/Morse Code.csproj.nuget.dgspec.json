@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj": {}
+    "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C# Practise\\Morse Code\\Morse Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj": {
+    "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C# Practise\\Morse Code\\Morse Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj",
+        "projectUniqueName": "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C# Practise\\Morse Code\\Morse Code.csproj",
         "projectName": "Morse Code",
-        "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj",
-        "packagesPath": "C:\\Users\\hajny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\obj\\",
+        "projectPath": "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C# Practise\\Morse Code\\Morse Code.csproj",
+        "packagesPath": "C:\\Users\\Main\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C# Practise\\Morse Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hajny\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Main\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
