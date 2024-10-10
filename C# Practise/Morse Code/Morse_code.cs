@@ -1,5 +1,7 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
+using System.Text.Json;
 
 namespace MyProgram
 {
@@ -7,9 +9,8 @@ namespace MyProgram
     {
         static void Main(string[] agrs)
         {
-            Dictionary<int, string> Morse = new();
-
-            Morse.Add(1, "Hello");
+            string text = "Hi"
+            string map = File.ReadAllText("morse.json");
             
             
             
@@ -19,7 +20,7 @@ namespace MyProgram
             Console.Beep(1000, dot);
             Console.Beep(1000, line); // Beep after a code is running
 
-            Console.WriteLine(Morse[1]);
+            
 
 
         }
