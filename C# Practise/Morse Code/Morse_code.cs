@@ -1,7 +1,8 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Text.Json;
+using YamlDotNet.Serialization;
+using YamlDotNet.Serialization.NameingConventions;
 
 namespace MyProgram
 {
@@ -9,9 +10,12 @@ namespace MyProgram
     {
         static void Main(string[] agrs)
         {
-            string text = "Hi";
-            string map = File.ReadAllText("morse.json");
-            
+            static MorseSet ParseMorseSet (string content) {
+                var deserializer = new DeserializerBuilder()
+                    .WithNameingConvention(CamelCaseNamingConvetion)
+                    .Build();
+                return deserializer.Deserialize<MorseSet>(content);
+            }
             
             
             int dot = 600;
@@ -20,9 +24,14 @@ namespace MyProgram
             Console.Beep(1000, dot);
             Console.Beep(1000, line); // Beep after a code is running
 
-            
-
-
         }
+    }
+
+    public class MorseSet{
+        public List<Morse> Alphabet { get; set;}
+    }
+
+    public class Alphabet{
+
     }
 }
