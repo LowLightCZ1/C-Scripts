@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 using YamlDotNet.Serialization;
-using YamlDotNet.Serialization.NameingConventions;
+using YamlDotNet.Serialization.NamingConventions;
 
 namespace MyProgram
 {
@@ -12,9 +12,9 @@ namespace MyProgram
         {
             static MorseSet ParseMorseSet (string content) {
                 var deserializer = new DeserializerBuilder()
-                    .WithNameingConvention(CamelCaseNamingConvetion)
+                    .WithNamingConvention(CamelCaseNamingConvetion.Instance)
                     .Build();
-                return deserializer.Deserialize<MorseSet>(content);
+                return deserializer.Deserialize<MorseSet>(contents);
             }
             
             
