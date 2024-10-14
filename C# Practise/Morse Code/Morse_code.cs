@@ -10,10 +10,13 @@ namespace MyProgram
     {
         static void Main(string[] agrs)
         {
-            static TagSet ParseMorseSet (string contents)
-            {
+            static async Task<TagSet> ParseTagSetFromFile(string file){
+                string fileContents = await File.ReadAllTextAsync(file);
+                return ParseTagSet(fileContents);
+            }
+            static TagSet ParseTagSet (string contents){
                 var deserializer = new DeserializerBuilder()
-                    // .WithNamingConvention(CamelCaseNamingConvetion.Instance)
+                    .WithNamingConvention(CamelCaseNamingConvention.Instance)
                     .Build();
                 return deserializer.Deserialize<TagSet>(contents);
             }
