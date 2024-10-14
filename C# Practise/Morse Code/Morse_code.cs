@@ -10,28 +10,31 @@ namespace MyProgram
     {
         static void Main(string[] agrs)
         {
-            static MorseSet ParseMorseSet (string content) {
+            static TagSet ParseMorseSet (string contents)
+            {
                 var deserializer = new DeserializerBuilder()
-                    .WithNamingConvention(CamelCaseNamingConvetion.Instance)
+                    // .WithNamingConvention(CamelCaseNamingConvetion.Instance)
                     .Build();
-                return deserializer.Deserialize<MorseSet>(contents);
+                return deserializer.Deserialize<TagSet>(contents);
             }
-            
-            
+
+
             int dot = 600;
             int line = 900;
-           
+
             Console.Beep(1000, dot);
             Console.Beep(1000, line); // Beep after a code is running
 
         }
     }
 
-    public class MorseSet{
-        public List<Morse> Alphabet { get; set;}
+    public class TagSet{
+        public List<Tag> Tags { get; set;}
     }
 
-    public class Alphabet{
+    public class Tag {
+        public string Name { get; set;}
 
+        public List<string> Synonyms { get; set;}
     }
 }

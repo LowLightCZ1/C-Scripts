@@ -29,3 +29,5 @@ c:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C# Practise\Morse Code\bin\
 C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C# Practise\Morse Code\obj\Debug\net8.0\Morse Code.genruntimeconfig.cache
 C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C# Practise\Morse Code\obj\Debug\net8.0\ref\Morse Code.dll
 C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Morse Code\obj\Debug\net8.0\Morse Code.csproj.AssemblyReference.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Morse Code\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C# Practise\Morse Code\obj\Debug\net8.0\Morse Code.csproj.Up2Date
