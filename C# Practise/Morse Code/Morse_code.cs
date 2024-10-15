@@ -21,12 +21,17 @@ namespace MyProgram
                 return deserializer.Deserialize<TagSet>(contents);
             }
 
+            // var filePath = @"C# Practise/Morse Code/tags.yml";
+            // var fileContent = File.ReadAllText(filePath);
+
+            // var deserializer = new DeserializerBuilder().Build();
+            // var objectFromYaml = deserializer.Deserialize<Tag>(fileContent);
 
             int dot = 600;
             int line = 900;
 
             Console.Beep(1000, dot);
-            Console.Beep(1000, line); // Beep after a code is running
+            Console.Beep(1000, line); //Beep after a code is running
 
         }
     }
