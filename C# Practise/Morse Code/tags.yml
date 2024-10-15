@@ -1,7 +1,6 @@
-tags:
-  - name: "morse"
-    synonyms:
-    - "Morse Code"
+
+name: "morse"
+sums: 1234
     # - A: .-,
     # - B: -...,
     # - C: -.-.,

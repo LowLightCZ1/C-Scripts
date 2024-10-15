@@ -10,22 +10,38 @@ namespace MyProgram
     {
         static void Main(string[] agrs)
         {
-            static async Task<TagSet> ParseTagSetFromFile(string file){
-                string fileContents = await File.ReadAllTextAsync(file);
-                return ParseTagSet(fileContents);
-            }
-            static TagSet ParseTagSet (string contents){
-                var deserializer = new DeserializerBuilder()
-                    .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                    .Build();
-                return deserializer.Deserialize<TagSet>(contents);
-            }
+            // static async Task<TagSet> ParseTagSetFromFile(string file){
+            //     string fileContents = await File.ReadAllTextAsync(file);
+            //     return ParseTagSet(fileContents);
+            // }
+            // static TagSet ParseTagSet (string contents){
+            //     var deserializer = new DeserializerBuilder()
+            //         .WithNamingConvention(CamelCaseNamingConvention.Instance)
+            //         .Build();
+            //     return deserializer.Deserialize<TagSet>(contents);
+            // }
 
-            // var filePath = @"C# Practise/Morse Code/tags.yml";
-            // var fileContent = File.ReadAllText(filePath);
+           
 
-            // var deserializer = new DeserializerBuilder().Build();
-            // var objectFromYaml = deserializer.Deserialize<Tag>(fileContent);
+            var deserializer = new DeserializerBuilder()
+            .WithNamingConvention(CamelCaseNamingConvention.Instance)
+            .Build();
+
+            try{
+                var result = deserializer.Deserialize<Person>(content);
+    
+    
+                Console.WriteLine($"Name: {result.Name}");
+                Console.WriteLine($"Sums: {result.Sums}");
+            }
+                
+                
+             
+            catch (Exception ex){   
+                Console.WriteLine($"Deserialization failed: {ex.Message}");
+            }
+            
+            
 
             int dot = 600;
             int line = 900;
@@ -36,13 +52,11 @@ namespace MyProgram
         }
     }
 
-    public class TagSet{
-        public List<Tag> Tags { get; set;}
+    public class Person
+    {
+    public string Name { get; set; }
+    public int Sums { get; set;}
     }
 
-    public class Tag {
-        public string Name { get; set;}
 
-        public List<string> Synonyms { get; set;}
-    }
 }
