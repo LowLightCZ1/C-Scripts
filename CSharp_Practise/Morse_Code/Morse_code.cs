@@ -10,63 +10,102 @@ namespace MyProgram
     {
         static void Main(string[] agrs)
         {
-            static async Task<TagSet> parseTagSetFromFile(string file)
-            {
-                string fileContents = await File.ReadAllTextAsync(file);
-                return parseTagSet(fileContents);
-            }
-            
-            static TagSet parseTagSet (string contents)
-            {
-                var deserializer = new DeserializerBuilder()
-                    .WithNamingConvention(CamelCaseNamingConvention.Instance)
-                    .Build();
-                return deserializer.Deserialize<TagSet>(contents);
-            }
-
-            Task<TagSet> yamlObject = parseTagSetFromFile("tags.yml");
-
-
-
-           
-
-            /*var deserializer = new DeserializerBuilder()
-            .WithNamingConvention(CamelCaseNamingConvention.Instance)
-            .Build();*/
-
-            // try{
-            //     var result = deserializer.Deserialize<Person>(content);
-    
-    
-            //     Console.WriteLine($"Name: {result.Name}");
-            //     Console.WriteLine($"Sums: {result.Sums}");
-            // }
-                
-                
-             
-            // catch (Exception ex){   
-            //     Console.WriteLine($"Deserialization failed: {ex.Message}");
+            // static async Task<TagSet> parseTagSetFromFile(string file)
+            // {
+            //     string fileContents = await File.ReadAllTextAsync(file);
+            //     return parseTagSet(fileContents);
             // }
             
+            // static TagSet parseTagSet (string contents)
+            // {
+            //     var deserializer = new DeserializerBuilder()
+            //         .WithNamingConvention(CamelCaseNamingConvention.Instance)
+            //         .Build();
+            //     return deserializer.Deserialize<TagSet>(contents);
+            // }
+
+            // Task<TagSet> yamlObject = parseTagSetFromFile("tags.yml");
+
             
+            // Console.WriteLine(yamlObject);
+
+
 
             int dot = 600;
             int line = 900;
 
-            Console.Beep(1000, dot);
-            Console.Beep(1000, line); //Beep after a code is running
+         
+
+            Dictionary<char, string> morse = new Dictionary<char, string>();
+
+            morse.Add('A', ".-");
+            morse.Add('B', "-...");
+            morse.Add('C', "-.-.");
+            morse.Add('D', "-..");
+            morse.Add('E', ".");
+            morse.Add('F', "..-.");
+            morse.Add('G', "--.");
+            morse.Add('H', "....");
+            morse.Add('I', "..");
+            morse.Add('J', ".---");
+            morse.Add('K', "-.-");
+            morse.Add('L', ".-..");
+            morse.Add('M', "--");
+            morse.Add('N', "-.");
+            morse.Add('O', "---");
+            morse.Add('P', ".--.");
+            morse.Add('Q', "--.-");
+            morse.Add('R', ".-.");
+            morse.Add('S', "...");
+            morse.Add('T', "-");
+            morse.Add('U', "..-");
+            morse.Add('V', "...-");
+            morse.Add('W', ".--");
+            morse.Add('X', "-..-");
+            morse.Add('Y', "-.--");
+            morse.Add('Z', "--..");
+
+            string text = "hello world";
+
+            for (int i = 0; i < text.Length; i++)
+            {
+                char textChar = Char.ToUpper(text[i]);
+                if (textChar == ' ') {
+                    continue;
+                }
+                
+                for (int j = 0; j < morse[textChar].Length; j++)
+                {
+                    char morseChar = morse[textChar][j];
+                    Console.Write(morseChar);
+                    if (morseChar == '.')
+                    {
+                        Console.Beep(1000, dot);
+                    }
+                    else
+                    {
+                        Console.Beep(1000, line);
+                    }
+                }
+            }
+
+            
+
+            
+
+            
 
         }
     }
 
-    public class TagSet
-    {
-        public List<Tag> Tags { get; set; }
-    }
+    // public class TagSet
+    // {
+    //     public List<Tag> Tags { get; set; }
+    // }
 
-    public class Tag 
-    {
-        public string Name { get; set; }
-    }
+    // public class Tag 
+    // {
+    //     public string Name { get; set; }
+    // }
 
 }
