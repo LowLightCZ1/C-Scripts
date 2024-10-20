@@ -25,16 +25,11 @@ namespace MyProgram
             // }
 
             // Task<TagSet> yamlObject = parseTagSetFromFile("tags.yml");
-
             
             // Console.WriteLine(yamlObject);
 
-
-
             int dot = 600;
             int line = 900;
-
-         
 
             Dictionary<char, string> morse = new Dictionary<char, string>();
 
@@ -88,10 +83,8 @@ namespace MyProgram
                     }
                 }
             }
-
         }
     }
-
     // public class TagSet
     // {
     //     public List<Tag> Tags { get; set; }
@@ -101,5 +94,4 @@ namespace MyProgram
     // {
     //     public string Name { get; set; }
     // }
-
 }
