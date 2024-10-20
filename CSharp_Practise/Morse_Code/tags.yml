@@ -1,6 +1,8 @@
+tags:
+    - name: "morse"
+    - name: "food"
 
-name: "morse"
-sums: 1234
+    
     # - A: .-,
     # - B: -...,
     # - C: -.-.,

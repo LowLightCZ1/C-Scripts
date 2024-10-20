@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj": {}
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\CSharp_Practise\\Morse_Code\\Morse Code.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj": {
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\CSharp_Practise\\Morse_Code\\Morse Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj",
+        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\CSharp_Practise\\Morse_Code\\Morse Code.csproj",
         "projectName": "Morse Code",
-        "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\Morse Code.csproj",
+        "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\CSharp_Practise\\Morse_Code\\Morse Code.csproj",
         "packagesPath": "C:\\Users\\hajny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C# Practise\\Morse Code\\obj\\",
+        "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\CSharp_Practise\\Morse_Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hajny\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Morse Code")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b84eb67c4f54e00c0c03383f8ebc8fd2b1b126a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93fe2bbf9135b00055e8f43313ccac8e5a137ada")]
 [assembly: System.Reflection.AssemblyProductAttribute("Morse Code")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Morse Code")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
