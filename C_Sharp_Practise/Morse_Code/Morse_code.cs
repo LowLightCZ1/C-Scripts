@@ -31,7 +31,7 @@ namespace MyProgram
             int dot = 600;
             int line = 900;
 
-            Dictionary<char, string> morse = new Dictionary<char, string>();
+            Dictionary<char, string> morse = new Dictionary<char, string>(); // Create Dictionary
 
             morse.Add('A', ".-");
             morse.Add('B', "-...");
@@ -62,14 +62,14 @@ namespace MyProgram
 
             string text = "hello world";
 
-            for (int i = 0; i < text.Length; i++)
+            for (int i = 0; i < text.Length; i++) // Converting text to Morse
             {
                 char textChar = Char.ToUpper(text[i]);
                 if (textChar == ' ') {
                     continue;
                 }
                 
-                for (int j = 0; j < morse[textChar].Length; j++)
+                for (int j = 0; j < morse[textChar].Length; j++) // Coverting to individual beeps
                 {
                     char morseChar = morse[textChar][j];
                     Console.Write(morseChar);
