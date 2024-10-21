@@ -1,13 +1,16 @@
 using System;
 using System.Collections.Generic;
 using System.IO;
+using System.Runtime.Versioning;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
 namespace MyProgram
 {
+    [SupportedOSPlatform("windows")]
     class Program
     {
+        [SupportedOSPlatform("windows")]
         static void Main(string[] agrs)
         {
             // static async Task<TagSet> parseTagSetFromFile(string file)
