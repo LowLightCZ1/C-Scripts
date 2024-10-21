@@ -25,7 +25,9 @@ namespace Morse_Code
             
             // Console.WriteLine(yamlObject);
 
-            
+            Console.WriteLine("Zadej tect který chceš zakodovat:");
+            #pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
+            string text = Console.ReadLine();
 
             int dot = 600;
             int line = 900;
@@ -59,8 +61,10 @@ namespace Morse_Code
             morse.Add('Y', "-.--");
             morse.Add('Z', "--..");
 
-            string text = "hello world";
+            
 
+
+            #pragma warning disable CS8602 // Dereference of a possibly null reference.
             for (int i = 0; i < text.Length; i++) // Converting text to Morse
             {
                 char textChar = Char.ToUpper(text[i]);
@@ -82,6 +86,7 @@ namespace Morse_Code
                     }
                 }
             }
+#pragma warning restore CS8602 // Dereference of a possibly null reference.
         }
     }
     // public class TagSet

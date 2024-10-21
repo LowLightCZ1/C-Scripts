@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj": {}
+    "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj": {
+    "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
+        "projectUniqueName": "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
         "projectName": "Morse Code",
-        "projectPath": "c:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
+        "projectPath": "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
         "packagesPath": "C:\\Users\\Main\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\obj\\",
+        "outputPath": "C:\\Users\\Main\\Documents\\GitHub\\C_sharp-Unity_Scripts\\C_Sharp_Practise\\Morse_Code\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Main\\AppData\\Roaming\\NuGet\\NuGet.Config"
