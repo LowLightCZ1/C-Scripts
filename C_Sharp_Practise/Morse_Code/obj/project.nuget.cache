@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qGim8wCVl1Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\CSharp_Practise\\Morse_Code\\Morse Code.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hajny\\.nuget\\packages\\yamldotnet\\16.1.3\\yamldotnet.16.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
