@@ -1,9 +1,8 @@
 using System.Runtime.Versioning;
+using System;
 
 namespace Morse_Code
-{
-    [SupportedOSPlatform("windows")]
-    class Program
+{    class Program
     {
         [SupportedOSPlatform("windows")]
         static void Main(string[] agrs)
