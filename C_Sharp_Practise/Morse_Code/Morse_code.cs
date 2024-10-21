@@ -5,7 +5,7 @@ using System.Runtime.Versioning;
 using YamlDotNet.Serialization;
 using YamlDotNet.Serialization.NamingConventions;
 
-namespace MyProgram
+namespace Morse_Code
 {
     [SupportedOSPlatform("windows")]
     class Program
@@ -30,6 +30,8 @@ namespace MyProgram
             // Task<TagSet> yamlObject = parseTagSetFromFile("tags.yml");
             
             // Console.WriteLine(yamlObject);
+
+            
 
             int dot = 600;
             int line = 900;
