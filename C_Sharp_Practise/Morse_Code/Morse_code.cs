@@ -7,23 +7,6 @@ namespace Morse_Code
         [SupportedOSPlatform("windows")]
         static void Main(string[] agrs)
         {
-            // static async Task<TagSet> parseTagSetFromFile(string file)
-            // {
-            //     string fileContents = await File.ReadAllTextAsync(file);
-            //     return parseTagSet(fileContents);
-            // }
-            
-            // static TagSet parseTagSet (string contents)
-            // {
-            //     var deserializer = new DeserializerBuilder()
-            //         .WithNamingConvention(CamelCaseNamingConvention.Instance)
-            //         .Build();
-            //     return deserializer.Deserialize<TagSet>(contents);
-            // }
-
-            // Task<TagSet> yamlObject = parseTagSetFromFile("tags.yml");
-            
-            // Console.WriteLine(yamlObject);
 
             Console.WriteLine("Zadej tect který chceš zakodovat:");
             #pragma warning disable CS8600 // Converting null literal or possible null value to non-nullable type.
@@ -86,16 +69,7 @@ namespace Morse_Code
                     }
                 }
             }
-#pragma warning restore CS8602 // Dereference of a possibly null reference.
+            #pragma warning restore CS8602 // Dereference of a possibly null reference.
         }
     }
-    // public class TagSet
-    // {
-    //     public List<Tag> Tags { get; set; }
-    // }
-
-    // public class Tag 
-    // {
-    //     public string Name { get; set; }
-    // }
 }
