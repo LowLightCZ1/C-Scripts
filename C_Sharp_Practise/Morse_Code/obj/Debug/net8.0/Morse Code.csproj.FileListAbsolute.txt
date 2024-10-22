@@ -49,3 +49,21 @@ C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\CSharp_Practise\Morse_C
 C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\CSharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.csproj.Up2Date
 C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\CSharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.genruntimeconfig.cache
 C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\CSharp_Practise\Morse_Code\obj\Debug\net8.0\ref\Morse Code.dll
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\bin\Debug\net8.0\Morse Code.exe
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\bin\Debug\net8.0\Morse Code.deps.json
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\bin\Debug\net8.0\Morse Code.runtimeconfig.json
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\bin\Debug\net8.0\Morse Code.dll
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\bin\Debug\net8.0\Morse Code.pdb
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\bin\Debug\net8.0\YamlDotNet.dll
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.csproj.AssemblyReference.cache
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.AssemblyInfoInputs.cache
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.AssemblyInfo.cs
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.csproj.CoreCompileInputs.cache
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.sourcelink.json
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.csproj.Up2Date
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.dll
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\refint\Morse Code.dll
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.pdb
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\Morse Code.genruntimeconfig.cache
+C:\Users\Main\Documents\GitHub\C_sharp-Unity_Scripts\C_Sharp_Practise\Morse_Code\obj\Debug\net8.0\ref\Morse Code.dll
