@@ -45,9 +45,6 @@ namespace Morse_Code
             morse.Add('Y', "-.--");
             morse.Add('Z', "--..");
 
-            
-
-
             #pragma warning disable CS8602 // Dereference of a possibly null reference.
             for (int i = 0; i < text.Length; i++) // Converting text to Morse
             {

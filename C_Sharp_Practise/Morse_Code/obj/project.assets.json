@@ -48,19 +48,19 @@
     ]
   },
   "packageFolders": {
-    "/home/matejhajny/.nuget/packages/": {}
+    "C:\\Users\\hajny\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matejhajny/Dokumenty/GitHub/C_sharp-Scripts/C_Sharp_Practise/Morse_Code/Morse Code.csproj",
+      "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
       "projectName": "Morse Code",
-      "projectPath": "/home/matejhajny/Dokumenty/GitHub/C_sharp-Scripts/C_Sharp_Practise/Morse_Code/Morse Code.csproj",
-      "packagesPath": "/home/matejhajny/.nuget/packages/",
-      "outputPath": "/home/matejhajny/Dokumenty/GitHub/C_sharp-Scripts/C_Sharp_Practise/Morse_Code/obj/",
+      "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
+      "packagesPath": "C:\\Users\\hajny\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/matejhajny/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\hajny\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
@@ -78,6 +78,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -105,7 +110,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.108/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

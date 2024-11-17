@@ -9,12 +9,14 @@ namespace Sifra
     {
         static void Main(string[] args) // Vypisuje zašifrovaný a dešifrovaný text
         {
-            string text = "The quick brown fox jumps over the lazy dog";
+            string text = Console.ReadLine();
+
             string cipherText = CezarEncrypt(text, 3);
             string plainText = CezarDecrypt(cipherText, 3);
 
-            Console.WriteLine(plainText);
             Console.WriteLine(cipherText);
+            Console.WriteLine(plainText);
+            
         }
         private static char Sifra(char ch, int key) 
         {

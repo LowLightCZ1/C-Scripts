@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj": {}
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Fibonacciho posloupnost\\Fibonacciho posloupnost.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj": {
+    "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Fibonacciho posloupnost\\Fibonacciho posloupnost.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
-        "projectName": "Morse Code",
-        "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\Morse Code.csproj",
+        "projectUniqueName": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Fibonacciho posloupnost\\Fibonacciho posloupnost.csproj",
+        "projectName": "Fibonacciho posloupnost",
+        "projectPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Fibonacciho posloupnost\\Fibonacciho posloupnost.csproj",
         "packagesPath": "C:\\Users\\hajny\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Morse_Code\\obj\\",
+        "outputPath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\C_Sharp_Practise\\Fibonacciho posloupnost\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hajny\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -42,12 +42,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "YamlDotNet": {
-              "target": "Package",
-              "version": "[16.1.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
