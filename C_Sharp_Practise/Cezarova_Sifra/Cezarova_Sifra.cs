@@ -7,7 +7,7 @@ namespace Sifra
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main(string[] args) // Vypisuje zašifrovaný a dešifrovaný text
         {
             string text = "The quick brown fox jumps over the lazy dog";
             string cipherText = CezarEncrypt(text, 3);
@@ -16,25 +16,27 @@ namespace Sifra
             Console.WriteLine(plainText);
             Console.WriteLine(cipherText);
         }
-        private static char Sifra(char ch, int key)
+        private static char Sifra(char ch, int key) 
         {
-            if(!char.IsLetter(ch))
+            if(!char.IsLetter(ch)){
                 return ch;
+            }
 
             char offset = char.IsUpper(ch) ? 'A' : 'a';
             return (char)((((ch + key) - offset) % 26) + offset); 
         }
 
-        public static string CezarEncrypt(string inputText, int key)
+        public static string CezarEncrypt(string inputText, int key) // Zašifrování textu
         {
             string outputText = string.Empty;
 
-            foreach(char i in inputText)
+            foreach(char i in inputText){
                 outputText += Sifra(i, key);
+            }   
             return outputText;
         }
 
-        public static string CezarDecrypt(string inputText, int key)
+        public static string CezarDecrypt(string inputText, int key) //Dešifrování 
         {
             return CezarEncrypt(inputText, 26 - key);
         }

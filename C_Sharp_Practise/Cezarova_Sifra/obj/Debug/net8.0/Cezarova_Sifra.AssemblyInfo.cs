@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Cezarova_Sifra")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc3965e0a00b763728224615cad391d75f61cfcd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6bed07c5a9bd17a96cc2584ce0fbfe1fea3a47a3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Cezarova_Sifra")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Cezarova_Sifra")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
