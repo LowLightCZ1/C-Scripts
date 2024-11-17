@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "qGim8wCVl1Y=",
+  "dgSpecHash": "/nFwmpsh2jmGmDs6NosMWjcEH8wlM1BD7e9qZ58ffA4Ffv2OOuZLMpm2ehz98wNYIkcnaty36aehpE+yy8N0MA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hajny\\OneDrive\\Documents\\GitHub\\C_sharp-Scripts\\CSharp_Practise\\Morse_Code\\Morse Code.csproj",
+  "projectFilePath": "/home/matejhajny/Dokumenty/GitHub/C_sharp-Scripts/C_Sharp_Practise/Morse_Code/Morse Code.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\hajny\\.nuget\\packages\\yamldotnet\\16.1.3\\yamldotnet.16.1.3.nupkg.sha512"
+    "/home/matejhajny/.nuget/packages/yamldotnet/16.1.3/yamldotnet.16.1.3.nupkg.sha512"
   ],
   "logs": []
 }
