@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cezarova_Sifra/1.0.0": {
+        "runtime": {
+          "Cezarova_Sifra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cezarova_Sifra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

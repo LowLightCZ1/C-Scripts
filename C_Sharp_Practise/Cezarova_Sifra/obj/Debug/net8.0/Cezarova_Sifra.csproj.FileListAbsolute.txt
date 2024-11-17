@@ -1,0 +1,15 @@
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.AssemblyInfoInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.AssemblyInfo.cs
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.csproj.CoreCompileInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.sourcelink.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\bin\Debug\net8.0\Cezarova_Sifra.exe
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\bin\Debug\net8.0\Cezarova_Sifra.deps.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\bin\Debug\net8.0\Cezarova_Sifra.runtimeconfig.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\bin\Debug\net8.0\Cezarova_Sifra.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\bin\Debug\net8.0\Cezarova_Sifra.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\refint\Cezarova_Sifra.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\Cezarova_Sifra.genruntimeconfig.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Cezarova_Sifra\obj\Debug\net8.0\ref\Cezarova_Sifra.dll
