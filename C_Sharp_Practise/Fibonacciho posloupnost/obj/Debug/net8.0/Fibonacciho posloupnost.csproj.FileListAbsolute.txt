@@ -1,0 +1,15 @@
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.AssemblyInfoInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.AssemblyInfo.cs
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.csproj.CoreCompileInputs.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.sourcelink.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\bin\Debug\net8.0\Fibonacciho posloupnost.exe
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\bin\Debug\net8.0\Fibonacciho posloupnost.deps.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\bin\Debug\net8.0\Fibonacciho posloupnost.runtimeconfig.json
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\bin\Debug\net8.0\Fibonacciho posloupnost.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\bin\Debug\net8.0\Fibonacciho posloupnost.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\refint\Fibonacciho posloupnost.dll
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.pdb
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\Fibonacciho posloupnost.genruntimeconfig.cache
+C:\Users\hajny\OneDrive\Documents\GitHub\C_sharp-Scripts\C_Sharp_Practise\Fibonacciho posloupnost\obj\Debug\net8.0\ref\Fibonacciho posloupnost.dll
