@@ -6,7 +6,7 @@ namespace Posloupnost
 {
     class Program
     {
-        static void Main()
+        static void Main(string[] args)
         {
             Console.WriteLine(Fib(4));
             Console.WriteLine(FibRek(6));
