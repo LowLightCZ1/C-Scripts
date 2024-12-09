@@ -37,7 +37,6 @@ namespace Sifra
             }   
             return outputText;
         }
-
         public static string CezarDecrypt(string inputText, int key) //Dešifrování 
         {
             return CezarEncrypt(inputText, 26 - key);
